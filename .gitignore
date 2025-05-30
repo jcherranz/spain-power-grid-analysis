@@ -1,0 +1,8 @@
+﻿__pycache__/
+*.py[cod]
+logs/
+outputs/
+data/raw/
+data/processed/
+.idea/
+.vscode/
